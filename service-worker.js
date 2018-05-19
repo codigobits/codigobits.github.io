@@ -21,27 +21,27 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9b78fa92e6e9c8207e17a9c8f1744e2a"
+    "revision": "4e130d0ee6bf783403b9d00b133293fd"
   },
   {
     "url": "app/1/index.html",
-    "revision": "3df5f5cee311abb6af0e68c819991add"
+    "revision": "6dafc26d0ec843106451de63e4e25579"
   },
   {
     "url": "app/2/index.html",
-    "revision": "9032e916c92bd50b4d64e40aa5e097bd"
+    "revision": "ceba413170a08602d273fd5fb157880e"
   },
   {
     "url": "app/3/index.html",
-    "revision": "0c44f8eee614b1e7c50e5fff2df9636a"
+    "revision": "8596c17b377544ec487e4381019d39b5"
   },
   {
     "url": "app/index.html",
-    "revision": "747ca58d3909f00e62308b2a793f1db1"
+    "revision": "ea672bf0a439854f0a8ed6b99bc62ce7"
   },
   {
-    "url": "assets/css/0.styles.8460fc00.css",
-    "revision": "5e3d2a99441b423506f061a86e67d167"
+    "url": "assets/css/0.styles.969d8d4f.css",
+    "revision": "eb5a387b92e9fa2f03ca5788c2e64a75"
   },
   {
     "url": "assets/img/cover.2cbe8fd9.png",
@@ -148,8 +148,8 @@ self.__precacheManifest = [
     "revision": "a1bc1103edfdbf1e37b3459b7f119490"
   },
   {
-    "url": "assets/js/app.9a2f863e.js",
-    "revision": "845a3e9ddd4e839684c3b4ccbc2a6e31"
+    "url": "assets/js/app.00e72577.js",
+    "revision": "4af96f11435be3675e6f3d9b0e8cd74d"
   },
   {
     "url": "assets/js/vendors~docsearch.4d04db72.js",
@@ -165,7 +165,7 @@ self.__precacheManifest = [
   },
   {
     "url": "es/index.html",
-    "revision": "f31157e26c6bb83e3a1100cc95b514ec"
+    "revision": "21d65dd4afc7d9be6b2bd4628387d537"
   },
   {
     "url": "image/img2x.png",
@@ -185,11 +185,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "043e64c102e3deeea5fdfd0b188dac1e"
-  },
-  {
-    "url": "logo.css",
-    "revision": "f2fa336d09c89a139c795069666404c7"
+    "revision": "1d820aefb8f97ca2b5d99e6219bd8b33"
   },
   {
     "url": "logo.min.png",
@@ -197,7 +193,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support.html",
-    "revision": "14636277aa288500490f465c1d38ce91"
+    "revision": "5f56e5a99ea1bdc34a4f96019ea5db15"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

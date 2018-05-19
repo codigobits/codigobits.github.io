@@ -27,7 +27,7 @@
     }
   ],
   "background_color": "#FFF",
-  "theme_color": "#756af7",
+  "theme_color": "#754F9A",
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
   "orientation": "any"
